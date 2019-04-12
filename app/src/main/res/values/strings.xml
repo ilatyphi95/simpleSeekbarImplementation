@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleSeekBarImplementation</string>
+    <string name="min_threshold">40</string>
+    <string name="max_threshold">45</string>
+</resources>
